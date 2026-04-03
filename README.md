@@ -1,6 +1,8 @@
 # Open Loop Pedal
 
-Desktop looping and pedalboard app: microphone in, synced loop tracks, per-track and global effects, and **automatic session save/load** under the app data folder (Electron + React + TypeScript + Web Audio API).
+Desktop looping and pedalboard app: microphone in, synced loop tracks, per-track and global effects, and **automatic session save/load** in the project **`saves/`** folder (Electron + React + TypeScript + Web Audio API).
+
+![Open Loop Pedal main dashboard](app.PNG)
 
 ## Prerequisites
 
